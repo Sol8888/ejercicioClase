@@ -20,7 +20,7 @@ int main() {
         fflush(stdout);
         gets(alumnos[i].nombre);
 
-        printf("Dirección del alumno: ");
+        printf("Direccion del alumno: ");
         fflush(stdout);
         gets(alumnos[i].direccion);
 
